@@ -1,241 +1,319 @@
-# YoutubeExplodeDart
-This is a port of the [YoutubeExplode] library from C#, most of the functions, doc comments, readme information, is taken from YoutubeExplode repository.
+<div align="center">
 
-![Pub Version](https://img.shields.io/pub/v/youtube_explode_dart)
-![License](https://img.shields.io/github/license/Hexer10/youtube_explode_dart)
-![Lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=YOUTUBE%20EXPLODE%20DART&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
-It used to build [Youtube Downloader Flutter](https://github.com/Hexer10/youtube_downloader_flutter) (A cross-platform application to download video streams from youtube using this library & flutter)
+# 📺 Yo ! Moi c'est YOUTUBE EXPLODE DART
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Librairie+YouTube+API+Dart;Téléchargement+%26+métadonnées;Reverse+engineering+avancé;Multi-plateforme+%26+performant" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🚀 **Un peu sur moi**
+
+</div>
+
+```python
+class YoutubeExplodeDart:
+    def __init__(self):
+        self.nom = "YOUTUBE EXPLODE DART"
+        self.lieu = "Développée avec passion 📺"
+        self.bio = "Librairie Dart qui révolutionne l'accès YouTube"
+        self.quand_je_télécharge_pas = "J'analyse des métadonnées ou optimise les streams"
+        self.truc_actuel = "Reverse engineering YouTube - j'aime bien quand ça marche partout !"
+        self.passion = "Transformer l'accès YouTube en expérience fluide"
+        self.addiction = "APIs non-officielles 🔧 (beaucoup trop)"
+        self.motto = "Si ça stream, c'est déjà ça !"
+
+    def dire_bonjour(self):
+        return f"Salut ! Je suis {self.nom} 📺"
+
+    def get_status(self):
+        return "En train de télécharger avec style 📺🔧"
+
+    def __str__(self):
+        return f"{self.nom} - {self.bio}"
+
+# Instanciation
+moi = YoutubeExplodeDart()
+print(moi.dire_bonjour())
+```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🎯 **Mes fonctionnalités**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+
+</td>
+<td width="33%" align="center">
+
+### 📺 [YOUTUBE API](https://pub.dev/packages/youtube_explode_dart)
+<img src="https://img.shields.io/badge/Status-✅_PUBLIÉ-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=dart&logoColor=white" />
+
+*API YouTube révolutionnaire*
+
+🔧 **Fonctionnalités principales :**
+- 🖥️ **Multi-plateforme** (Dart natif)
+- 📺 **Métadonnées** complètes
+- 💾 **Téléchargement** vidéos/audio
+- 🔍 **Recherche** avancée
+- 📝 **Commentaires** & sous-titres
+
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/youtube_explode_dart)
+
+</td>
+<td width="33%" align="center">
+
+### 🔧 [REVERSE ENGINEERING](https://pub.dev/packages/youtube_explode_dart)
+<img src="https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature-🔍_Analysis-4CAF50?style=for-the-badge&logo=search&logoColor=white" />
+
+*Ingénierie inverse avancée*
+
+🔍 **Fonctionnalités principales :**
+- 🔍 **Reverse engineering** YouTube
+- 📊 **Streams** analysis
+- 🎵 **Audio/Video** séparation
+- 📱 **Playlists** & chaînes
+- ⚡ **Performance** optimisée
+
+[![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge&logo=book&logoColor=white)](https://pub.dev/packages/youtube_explode_dart)
+
+</td>
+</tr>
+</table>
+
+[![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🛠️ **Mes technologies**
+
+<details>
+<summary><b>🖥️ Langages de Programmation</b></summary>
+<br>
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Plateformes Supportées</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Web](https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=web&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop-4CAF50?style=for-the-badge&logo=desktop&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-FF9800?style=for-the-badge&logo=mobile&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ YouTube & Streaming</b></summary>
+<br>
+
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-6200EA?style=for-the-badge&logo=engineering&logoColor=white)
+![Stream Processing](https://img.shields.io/badge/Stream_Processing-9C27B0?style=for-the-badge&logo=stream&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Features & Analysis</b></summary>
+<br>
+
+![Metadata](https://img.shields.io/badge/Metadata-4CAF50?style=for-the-badge&logo=data&logoColor=white)
+![Download](https://img.shields.io/badge/Download-FF9800?style=for-the-badge&logo=download&logoColor=white)
+![Search](https://img.shields.io/badge/Search-2196F3?style=for-the-badge&logo=search&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **Mes stats**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&custom_title=YOUTUBE%20EXPLODE%20DART%20Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AveryMist&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&custom_title=Technologies%20Utilisées" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ---
 
-YoutubeExplode is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks. Behind a layer of abstraction, the library parses raw page content and uses reverse-engineered AJAX requests to retrieve information. As it doesn't use the official API, there's also no need for an API key and there are no usage quotas.
+## 🏆 **Mes achievements**
 
-## Features
+<div align="center">
 
-- Retrieve metadata on videos, playlists, channels, streams, and closed captions
-- Execute search queries and get resulting videos.
-- Get or download video streams.
-- Get closed captions.
-- Get video comments.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Usage
-- [Install](#install)
-- [Downloading a video stream](#downloading-a-video-stream)
-- [Working with playlists](#working-with-playlists)
-- [Extracting closed captions](#extracting-closed-captions)
-- [Getting comments](#get-comments)
-- [Cleanup](#cleanup)
-- [Before reporting an issue](#troubleshooting)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AveryMist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
 
-### Install
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Add the dependency to the pubspec.yaml (Check for the latest version)
-```yaml
-youtube_explode_dart: ^2.3.4
-```
+</div>
 
-Import the library
-```dart
-import 'package:youtube_explode_dart/youtube_explode_dart.dart';
-```
+## 🎮 **Ce que je fais de mieux**
 
-### Getting metadata of a video
- The following example shows how you can extract various metadata from a YouTube video:
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-```dart
-// You can provide either a video ID or URL as String or an instance of `VideoId`.
-var video = yt.videos.get('https://youtube.com/watch?v=Dpp1sIL1m5Q'); // Returns a Video instance.
+### 📺 **YouTube API**
+- **Reverse engineering** avancé
+- **Métadonnées** complètes
+- **Streams** analysis
+- **Performance** optimisée
 
-var title = video.title; // "Scamazon Prime"
-var author = video.author; // "Jim Browning"
-var duration = video.duration; // Instance of Duration - 0:19:48.00000
-```
+</td>
+<td align="center" width="33%">
 
-### Downloading a video stream
-Every YouTube video has a number of streams available. These streams may have different containers, video quality, bitrate, etc.
+### 💾 **Téléchargement**
+- **Audio/Video** séparation
+- **Qualité** maximale
+- **Formats** multiples
+- **Streaming** intelligent
 
-On top of that, depending on the content of the stream, the streams are further divided into 3 categories:
-- Muxed streams -- contain both video and audio (available only in 360p)
-- Audio-only streams -- contain only audio
-- Video-only streams -- contain only video
+</td>
+<td align="center" width="33%">
 
-You can request the stream manifest to get available streams for a particular video:
+### 🔍 **Recherche & Data**
+- **Recherche** avancée
+- **Playlists** & chaînes
+- **Commentaires** extraction
+- **Sous-titres** support
 
+</td>
+</tr>
+</table>
 
-```dart
-var yt = YoutubeExplode();
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-var manifest = yt.videos.streams.getManifest('Dpp1sIL1m5Q');
+## 💭 **Citation du Jour**
 
-print(manifest); // Prints the list of streams available for the video.
+<div align="center">
 
-// If you want to specify which youtube clients to use to get the manifest you can do so:
-var manifest = yt.videos.streams.getManifest(videoId, ytClients: [
-  YoutubeApiClient.safari,
-  YoutubeApiClient.androidVr  
-]); // The streams provided by both clients will be merged.
-```
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Once you get the manifest, you can filter through the streams and choose the one you're interested in downloading:
+</div>
 
-```dart
-// highest bitrate audio-only stream
-var streamInfo = streamManifest.audioOnly.withHigestBitrate();
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-// MP4 video-only stream
-var streamInfo.videoOnly.where((e) => e.container == Container);
+## 🤝 **On peut se parler !**
 
-// Muxed (audio + video) stream with the highest video quality. NOTE: Don't rely on this, muxed streams are limited to 360p30.
-var streamInfo = streamManifest.muxed.withHigestVideoQuality();
+<div align="center">
 
-// HLS (m3u8) streams are also supported
-var streamInfo = streamManifest.hls;
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Finally, you can get the actual `Stream` object represented by the metadata:
+<table>
+<tr>
+<td align="center">
 
-```dart
-// Get the actual byte stream
-var stream = yt.video.streams.get(streamInfo);
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
-// Open a file for writing.
-var file = File(filePath);
-var fileStream = file.openWrite();
+**Communauté AMADEUSE**
 
-// Pipe all the content of the stream into the file.
-await stream.pipe(fileStream);
+</td>
+<td align="center">
 
-// Close the file.
-await fileStream.flush();
-await fileStream.close();
-```
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white&labelColor=02569B)](https://pub.dev/packages/youtube_explode_dart)
 
-While it may be tempting to just always use muxed streams, it's important to note that they are limited in quality. **Muxed streams don't go beyond 360p30.**
+**Package officiel**
 
-If you want to download the video in maximum quality, you need to download the audio-only and video-only streams separately and then mux them together on your own. There are tools like FFmpeg that let you do that.
+</td>
+<td align="center">
 
-### Working with playlists
-Among other things, YoutubeExplode also supports playlists:
-```dart
-var yt = YoutubeExplode();
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist/YOUTUBE-EXPLODE-DART)
 
-// Get playlist metadata.
-var playlist = await yt.playlists.get('xxxxx');
+**Code source**
 
-var title = playlist.title;
-var author = playlist.author;
+</td>
+</tr>
+</table>
 
-  await for (var video in yt.playlists.getVideos(playlist.id)) {
-    var videoTitle = video.title;
-    var videoAuthor = video.author;
-  }
+### 💬 **Toujours partant pour :**
 
-var playlistVideos = await yt.playlists.getVideos(playlist.id);
+<table>
+<tr>
+<td width="25%" align="center">
 
-// Get first 20 playlist videos.
-var somePlaylistVideos = await yt.playlists.getVideos(playlist.id).take(20);
-```
+📺 **Analyser**
+des APIs YouTube
 
-### Extracting closed captions
-Similarly, to streams, you can extract closed captions by getting the manifest and choosing the track you're interested in:
+</td>
+<td width="25%" align="center">
 
-```dart
-  var yt = YoutubeExplode();
+💡 **Discuter**
+de reverse engineering
 
-  var trackManifest = await yt.videos.closedCaptions.getManifest('_QdPW8JrYzQ')
+</td>
+<td width="25%" align="center">
 
-  var trackInfo = manifest.getByLanguage('en'); // Get english caption.
-  
-  if (trackInfo != null)
-  {
-     // Get the actual closed caption track.
-     var track = await youtube.videos.closedCaptions.get(trackInfo);
-      
-    // Get the caption displayed at 1:01
-    var caption = track.getByTime(Duration(seconds: 61));
-    var text = caption?.text; // "And the game was afoot."
-  }
-```
+🔧 **Optimiser**
+des téléchargements
 
-#### Get a list of related videos
-```dart
-var video = yt.videos.get('https://youtube.com/watch?v=Dpp1sIL1m5Q');
-var relatedVideos = await yt.videos.getRelatedVideos(video); // video must be a Video instance.
-print(relatedVideos); //prints the list of related videos
+</td>
+<td width="25%" align="center">
 
-// to get the next page of related videos
-relatedVideos = await relatedVideos.nextPage();
-```
+📦 **Améliorer**
+l'écosystème Dart
 
-If no related video is found `getRelatedVideos` or `nextPage` will return null.
+</td>
+</tr>
+</table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Get comments
-You can easily get the video comments of a given video, the return value of `comments.getComments(video)` is a list-like object which behaves exactly like a `List` but has an additional method `nextPage()` which is used in order to get the next comments, it returns null when there are no comments to be fetched anymore.
+</div>
 
-```dart
-var comments = await yt.videos.comments.getComments(video);
+<div align="center">
 
-var replies = await yt.videos.comments.getReplies(comment); // Fetch the comment replies 
-```
+### 🌟 **"Une bonne API, c'est comme un bon film... ça se télécharge bien !"** 🌟
 
+![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-FF6B6B?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-### Cleanup
-You need to close `YoutubeExplode`'s http client, when done otherwise this could halt the dart process.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+*N'hésite pas à utiliser la librairie ou à me ping si tu veux discuter YouTube API !* ✨
 
-```dart
-yt.close();
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
-### Troubleshooting
-If you encounter any issues, please check that it has not been reported already in the [issues section](Issue).
+</div>
 
-When reporting a new issue, make sure to follow the issue template and report the logs after having enabled the logging:
-```dart
-import 'package:logging/logging.dart';
-
-...
-
-// Before any YoutubeExplode code
-Logger.root.level = Level.FINER;
-Logger.root.onRecord.listen((e)  {
-  print(e);
-  if (e.error != null) {
-   print(e.error);
-   print(e.stackTrace);
-  }
-});
-```
-
-To the very minimum the video id causing the issue (if applicable) and the code snippet that is causing the issue must be provided.
-
-### Examples:
-
-More examples available on [GitHub][Examples].
-
----
-
-
-Check the [api documentation][API] for additional information.
-You can find how most APIs can be used in the files inside the test/ folder. 
-
-### Credits
-
-- [Tyrrrz] for creating [YoutubeExplode] in C#
-- [Hexer10] (me) who ported the library over to Dart.
-- [EnsembleUI] for the jsparser project.
-- [yt-dlp] for documentation and reverse engineering about the YouTube apis.
-- All the [Contributors] of this repository.
-
-[YoutubeExplode]: https://github.com/Tyrrrz/YoutubeExplode/
-[API]: https://pub.dev/documentation/youtube_explode_dart/latest/youtube_explode/youtube_explode-library.html
-[Examples]: https://github.com/Hexer10/youtube_explode_dart/tree/master/example
-[Tyrrrz]: https://github.com/Tyrrrz/
-[Hexer10]: https://github.com/Hexer10/
-[Contributors]: https://github.com/Hexer10/youtube_explode_dart/graphs/contributors
-[EnsembleUI]: https://github.com/EnsembleUI
-[Issue]: https://github.com/Hexer10/youtube_explode_dart/issues
-[yt-dlp]: https://github.com/yt-dlp/yt-dlp
+</div>
 
